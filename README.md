@@ -53,7 +53,8 @@
 
 
 ## Output:
-<img width="870" height="618" alt="empd exp1" src="https://github.com/user-attachments/assets/0a3ce942-491d-4fbd-ac1a-16b88d85931d" />
+<img width="870" height="604" alt="empd exp1" src="https://github.com/user-attachments/assets/8cfda176-de92-429e-a151-87556063fa11" />
+
 
 
 ### Name:MANIYARASAN R
